@@ -1,3 +1,6 @@
+## Manegement Sysytem
+본 프로젝트는 토이 프로젝트로 고객관리 시스템 목적으로 만든 프로그램입니다
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
